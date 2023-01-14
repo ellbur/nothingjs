@@ -2,6 +2,7 @@
   "name": "@ellbur/nothingjs",
   "version": "1.0.0",
   "description": "Nothing",
+  "main": "lib/nothing.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ellbur/nothingjs.git"
