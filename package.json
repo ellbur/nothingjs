@@ -1,0 +1,15 @@
+{
+  "name": "@ellbur/nothingjs",
+  "version": "1.0.0",
+  "description": "Nothing",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellbur/nothingjs.git"
+  },
+  "author": "Owen Healy <owen@owenehealy.com>",
+  "license": "WTFPL (http://www.wtfpl.net)",
+  "bugs": {
+    "url": "https://github.com/ellbur/nothingjs/issues"
+  },
+  "homepage": "https://github.com/ellbur/nothingjs#readme"
+}
